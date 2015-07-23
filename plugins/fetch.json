@@ -1,0 +1,18 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.jsmobile.plugins.sms": {
+        "source": {
+            "type": "registry",
+            "id": "com.jsmobile.plugins.sms"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
